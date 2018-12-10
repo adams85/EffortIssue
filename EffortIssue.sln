@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccessEffortDbFromMultipleThreads", "..\EffortRepro\AccessEffortDbFromMultipleThreads\AccessEffortDbFromMultipleThreads.csproj", "{4974C2B4-3718-47EA-80AF-F65F20CB0EE5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4974C2B4-3718-47EA-80AF-F65F20CB0EE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4974C2B4-3718-47EA-80AF-F65F20CB0EE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4974C2B4-3718-47EA-80AF-F65F20CB0EE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4974C2B4-3718-47EA-80AF-F65F20CB0EE5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5330AE21-B86E-440E-996F-95CF1A965941}
+	EndGlobalSection
+EndGlobal
